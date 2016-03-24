@@ -1,0 +1,6 @@
+conf/
+lib/
+.idea/
+*.iml
+scripts/
+target/
